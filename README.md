@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu-sandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu-sandaruwan" /> </p>
 
 
-- 🌱 I’m currently learning **Java ,Flutter ,Arduino**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **Kavinduvishmithasandaruwan@gmail.com**
 
