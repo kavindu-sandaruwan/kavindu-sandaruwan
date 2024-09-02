@@ -1,4 +1,4 @@
-![MasterHead](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1920,h_480/https://www.inspiredbusinessmedia.com/wp-content/uploads/2020/09/Twilio.jpg)
+
 <h1 align="center">Hi 👋, I'm Kavindu Sandaruwan</h1>
 <h3 align="center">An Undergraduate Software Engineer👨🏽‍💻 at Plymouth University👨🏽‍🎓(NSBM💚)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif">
