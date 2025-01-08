@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kavindu Sandaruwan</h1>
-<h3 align="center">An Undergraduate Software Engineer👨🏽‍💻 at Plymouth University👨🏽‍🎓(NSBM💚)</h3>
+<h3 align="center">Software Engineer👨🏽‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu-sandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu-sandaruwan" /> </p>
